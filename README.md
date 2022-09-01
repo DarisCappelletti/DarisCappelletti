@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hello there! 👋
+
+<img src="https://raw.githubusercontent.com/DarisCappelletti/DarisCappelletti/output/github-contribution-grid-snake-dark.svg" />
 
 <!--
 **DarisCappelletti/DarisCappelletti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
