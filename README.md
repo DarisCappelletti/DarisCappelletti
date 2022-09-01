@@ -1,6 +1,7 @@
 ### Hello there! 👋
 
-<img src="https://raw.githubusercontent.com/DarisCappelletti/DarisCappelletti/output/github-contribution-grid-snake-dark.svg" />
+<p dir="auto"><img src="https://raw.githubusercontent.com/DarisCappelletti/DarisCappelletti/output/github-contribution-grid-snake-dark.svg" /></p>
+<p dir="auto" ><em>generated with <a href="https://github.com/Platane/snk">Platane/snk</a></em></p>
 
 <!--
 **DarisCappelletti/DarisCappelletti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
